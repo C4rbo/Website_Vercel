@@ -5,9 +5,6 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
 import person_project from "./assets/images/project.png";
 
 import Hireme_person from "./assets/images/social.png";
@@ -90,22 +87,18 @@ export const content = {
     project_content: [
       {
         title: "Port Scanner",
-        image: project1,
         link  :"https://github.com/C4rbo/Port-Scanner",
       },
       {
         title: "System Resource Monitor",
-        image: project2,
         link  :"https://github.com/C4rbo/system-resource-monitor",
       },
       {
         title: "Pdf Encrypte & Decrypt",
-        image: project3,
         link  :"https://github.com/C4rbo/pdf-encrypt-decrypt",
       },
       {
         title: "Check Password",
-        image: project3,
         link  :"https://github.com/C4rbo/CheckPassword",
       },
     ],

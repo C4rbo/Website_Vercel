@@ -21,7 +21,7 @@ const Projects = () => {
         </div>
         <div className="flex items-center lg:flex-row flex-col-reverse gap-5">
           <img
-            src={Projects.image}
+            src="./assets/images/projects/img3.png"
             alt="..."
             data-aos="fade-right"
             className="max-w-[45vw] min-w-[22rem]"
