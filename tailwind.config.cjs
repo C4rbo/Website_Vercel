@@ -3,9 +3,8 @@ module.exports = {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     fontFamily: {
-      Poppins: "Poppins",
-      Paprika: "Paprika",
-      Inria: "Inria Serif",
+      firacode: "Fira Code",
+      
     },
     container: {
       center: true,
@@ -18,10 +17,16 @@ module.exports = {
         gray: "#B7C5D3",
         fontbianco: "rgb(255, 255, 255)",
         black: "rgb(0,0,0)",
+
+
+
       },
       backgroundImage: {
         primaryLinear: "linear-gradient(180deg,rgb(255, 255, 255) 0.48%,rgb(255, 255, 255) 100%)",
       },
+
+
+      
       dropShadow: {
         primary: "-5px 35px 40px rgba(223, 229, 236, 0.9)",
       },
